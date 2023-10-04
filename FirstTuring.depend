@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1682620597 source:c:\users\acer\desktop\project\firstturing\main.cpp
+	<iostream>
+	"logicGate.h"
+
+1682620633 c:\users\acer\desktop\project\firstturing\logicgate.h
+
+1683042110 source:c:\users\acer\desktop\410923041\firstturing\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"logicGate.h"
+	"Arithmetic.h"
+	"Switching.h"
+	"ArithmeticLogicUnit.h"
+	"Memory.h"
+	"Processor.h"
+
+1682943759 c:\users\acer\desktop\410923041\firstturing\logicgate.h
+	<iostream>
+
+1682943625 c:\users\acer\desktop\410923041\firstturing\arithmetic.h
+
+1682944036 c:\users\acer\desktop\410923041\firstturing\switching.h
+
+1682944001 c:\users\acer\desktop\410923041\firstturing\arithmeticlogicunit.h
+
+1682873028 c:\users\acer\desktop\410923041\firstturing\memory.h
+
+1682946849 c:\users\acer\desktop\410923041\firstturing\processor.h
+
+1683193975 source:c:\users\user1\desktop\temp\410923041\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"logicGate.h"
+	"Arithmetic.h"
+	"Switching.h"
+	"ArithmeticLogicUnit.h"
+	"Memory.h"
+	"Processor.h"
+
+1682943760 c:\users\user1\desktop\temp\410923041\logicgate.h
+	<iostream>
+
+1682943626 c:\users\user1\desktop\temp\410923041\arithmetic.h
+
+1682944038 c:\users\user1\desktop\temp\410923041\switching.h
+
+1682944002 c:\users\user1\desktop\temp\410923041\arithmeticlogicunit.h
+
+1682873030 c:\users\user1\desktop\temp\410923041\memory.h
+
+1682946850 c:\users\user1\desktop\temp\410923041\processor.h
+
