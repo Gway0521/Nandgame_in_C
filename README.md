@@ -225,3 +225,7 @@
 0000000000000000
 215
 ```
+
+## 指令集架構
+![image](https://github.com/Gway0521/Nandgame_in_C/assets/112754491/0e23eefa-2f1a-4bfe-b27d-c5f0187f2275)
+
